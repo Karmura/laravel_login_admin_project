@@ -1,2 +1,2 @@
-# laravel_login_admin_project
+# laravel_project
 Project with CRUD, Image upload, admin &amp; user
